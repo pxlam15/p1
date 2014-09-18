@@ -3,7 +3,7 @@
 	<head>
 		<center><title> Peter Lam P1 - Dynamic Web Applications Porfolio </title>
 		<meta charset = "utf-8">
-		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/style 1.0.css">
 		</center>
 
 	</head>
