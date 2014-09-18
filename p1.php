@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<center><title> Peter Lam P1 - Dynamic Web Applications Porfolio </title>
+		<h1>Dynamic Web Applications Portfolio</h2>
 		<meta charset = "utf-8">
 		<link rel="stylesheet" type="text/css" href="css/style 1.0.css">
 		</center>
@@ -10,7 +11,7 @@
 
 	<body>
 		<center><h2>Peter Lam</h2>
-		<img src= "images\Senior Pic.jpg" alt = "myHeadshot">
+		<img src= "images\senior pic 1.1.jpg" alt = "myHeadshot">
 
 		<h3>Project 2 Title</h3>
 		View:[link]
@@ -21,7 +22,7 @@
 		<h3>Project 4 Title</h3>
 		View:[link]
 		Github:[link]
-		
+
 		</center>
 
 		<div class = "info"><h4>About Me</h4>
