@@ -9,7 +9,7 @@
 
 	<body>
 		<center><h2>Peter Lam</h2>
-		<img src= "C:\xampp\htdocs\p1\Senior Pic.jpeg" alt = "myHeadshot">
+		<img src= "C:\xampp\htdocs\p1\images\Senior Pic.jpeg" alt = "myHeadshot">
 
 		<h3>Project 2 Title</h3>
 		<h3>Project 3 Title</h3>
