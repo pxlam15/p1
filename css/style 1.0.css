@@ -14,3 +14,8 @@
 body{
 	font-family: "Impact", Charcoal, sans-serif
 }
+
+img{
+	max-width: 300;
+	max-height: 500;
+}
