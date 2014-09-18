@@ -3,13 +3,14 @@
 	<head>
 		<center><title> Peter Lam P1 - Dynamic Web Applications Porfolio </title>
 		<meta charset = "utf-8">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
 		</center>
 
 	</head>
 
 	<body>
 		<center><h2>Peter Lam</h2>
-		<img src= "\images\Senior_Pic.jpeg" alt = "myHeadshot">
+		<img src= "\images\Senior Pic.jpg" alt = "myHeadshot">
 
 		<h3>Project 2 Title</h3>
 		View:[link]
