@@ -21,6 +21,7 @@
 		<h3>Project 4 Title</h3>
 		View:[link]
 		Github:[link]
+		
 		</center>
 
 		<div class = "info"><h4>About Me</h4>
