@@ -1,0 +1,16 @@
+.info{
+	border-style: outset;
+	border-width: 5px;
+	border-color: red;
+	vertical-align: center;
+	padding: 20px;
+	margin-left: 12%;
+	margin-right:15%;
+	margin top: 15px;
+	margin-bottom:15px;
+	font-size: 12pt;
+}
+
+body{
+	font-family: "Impact", Charcoal, sans-serif
+}
