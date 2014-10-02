@@ -14,8 +14,8 @@
 		<img src= "images\senior pic 1.1.jpg" alt = "myHeadshot">
 
 		<h3>Project 2 Title</h3>
-		View:[link]
-		Github:[link]
+		View:<a href="p2.peterlam.me"> [link] </a>
+		Github:<a href="https://github.com/pxlam15/p2"> [link] </a>
 		<h3>Project 3 Title</h3>
 		View:[link]
 		Github:[link]
@@ -27,7 +27,7 @@
 
 		<div class = "info"><h4>About Me</h4>
 			<p>
-				My name is Peter Lamand I am a full time ALB student '15 concentrating in Psychology.  I have had the pleasure of coding in high school and worked on various independent projects in the past few years.  I hope to further practice my coding skills and expand my skillset.</p>
+				My name is Peter Lam and I am a full time ALB student '15 concentrating in Psychology.  I have had the pleasure of coding in high school and worked on various independent projects in the past few years.  I hope to further practice my coding skills and expand my skillset.</p>
 		</div>
 		<div class = "info"><h4>Why I am taking DWA 15</h4>
 			<p>
@@ -43,7 +43,7 @@
 		</div>
 		<div class = "info"><h4>Other Information About Me</h4>
 			<p>
-				I love learning new languages.  My dream is to travel the world practicing the martial art of its respective country (Example: Savatte, France, Muay Thai, Thailand, etc.)</p>
+				I love learning new languages.  My dream is to travel the world practicing the martial art of its respective country (Example: Savate, France, Muay Thai, Thailand, etc.)</p>
 		</div>
 	</body>
 
